@@ -36,12 +36,12 @@
 
 </details>
 
-<details>
+
   <summary>:zap: GitHub Stats</summary>
+  
+[![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacktan130802&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacktan130802&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
-</details>
 
 [website]: https://jacktan130802.github.io/
 [twitter]: https://twitter.com/jack_txj

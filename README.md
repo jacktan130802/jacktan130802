@@ -37,9 +37,9 @@
 </details>
 
 
-  <summary>:zap: GitHub Stats</summary>
+  ### :zap: GitHub Stats
   
-<br><br>
+<br>
   
 ![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacktan130802&show_icons=true&theme=tokyonight)
 

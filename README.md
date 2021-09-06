@@ -47,5 +47,5 @@
 [twitter]: https://twitter.com/jack_txj
 [youtube]: https://www.youtube.com/channel/UCoCe5QvswhcKPxwAtNFU5bQ
 [instagram]: https://www.instagram.com/jack.txj/
-[linkedin]: https://www.linkedin.com/in/jack-tan-8ab7181a7/
+[linkedin]: https://www.linkedin.com/in/jacktanxinjie/
 

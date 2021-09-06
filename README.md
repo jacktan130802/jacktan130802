@@ -1,4 +1,4 @@
-### Hi there, I'm Jack!!! 👋 I am comfortable using Java, C++, C and Python programming languages. Love to explore competitive programming during my free time
+### Hi there, I'm Jack!!! 👋 I am comfortable using C++, C, Java, and Python programming languages. Love to explore competitive programming during my free time
 
 ### Connect with me:
 
